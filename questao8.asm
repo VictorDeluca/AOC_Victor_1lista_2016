@@ -1,4 +1,4 @@
-# Title: Insertion Sort em MIPS																		Filename: questao7.asm
+# Title: Insertion Sort em MIPS																		Filename: questao8.asm
 # Author: Victor Deluca Almirante Gomes																Date: 12/12/2016
 # Description: Implementacao em Assembly do MIPS do algoritmo de ordenacao Insertion Sort
 # Input: Dez numeros inteiros 
